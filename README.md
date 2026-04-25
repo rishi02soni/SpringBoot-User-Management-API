@@ -1,10 +1,10 @@
-# 🚀 Spring Boot User Management API
+#  Spring Boot User Management API
 
 A production-ready RESTful API built using Spring Boot that performs full CRUD (Create, Read, Update, Delete) operations on users.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Create new users
 - Get all users
@@ -18,7 +18,7 @@ A production-ready RESTful API built using Spring Boot that performs full CRUD (
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Java 17+
 - Spring Boot
@@ -29,7 +29,7 @@ A production-ready RESTful API built using Spring Boot that performs full CRUD (
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 springboot-user-api/
 │── src/
@@ -50,7 +50,7 @@ springboot-user-api/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the Repository
 ```
@@ -71,7 +71,7 @@ http://localhost:8080
 
 ---
 
-## 🗄️ H2 Database Console
+##  H2 Database Console
 ```
 http://localhost:8080/h2-console
 ```
@@ -85,7 +85,7 @@ Password: (leave empty)
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|---------|------------|
@@ -97,7 +97,7 @@ Password: (leave empty)
 
 ---
 
-## 🧪 Sample JSON
+##  Sample JSON
 ```
 {
 "name": "Rishi",
@@ -108,7 +108,7 @@ Password: (leave empty)
 
 ---
 
-## 🧪 cURL Commands
+##  cURL Commands
 
 ### Create User
 ```
@@ -140,14 +140,14 @@ curl -X DELETE http://localhost:8080/api/users/1
 
 ---
 
-## ⚠️ Error Handling
+##  Error Handling
 
 - 404 - User not found
 - 500 - Internal server error
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - JWT Authentication
 - MySQL/PostgreSQL integration
@@ -157,18 +157,18 @@ curl -X DELETE http://localhost:8080/api/users/1
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🌟 Support
+##  Support
 
 If you like this project, give it a ⭐ on GitHub!
